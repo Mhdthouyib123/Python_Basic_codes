@@ -1,0 +1,2 @@
+print('String Manipulation Exercise \nString Concatenation is done with "+" sign') # to print the string in multiple lines.
+print('e.g Print("Hello" + "Jenny") \nNew lines can be created with a backslash and n') # to print the string in multiple lines.

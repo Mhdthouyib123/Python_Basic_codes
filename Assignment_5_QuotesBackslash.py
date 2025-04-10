@@ -1,0 +1,1 @@
+print("Jenny\'s Lectures \"CS/IT\"") # to print the sentence with quotes(single || double).

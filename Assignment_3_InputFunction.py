@@ -1,0 +1,1 @@
+print("Hey" + " " + input("What is Your Name ? ") + ", How are you ?") # using user input print the sentence mentioned.
