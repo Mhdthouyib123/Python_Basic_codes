@@ -1,0 +1,13 @@
+# to round the numbers using round function
+print(round(652.221))
+print(round(25.689))
+print(round(85.5))
+print(round(84.5))
+print(round(675,2))
+print(round(875,0))
+print(round(45.3333215,2))
+print(round(685,-1))
+print(round(685,-2))
+print(round(685,-3))
+print(round(685,-4))
+print(round(684.2888,0))
