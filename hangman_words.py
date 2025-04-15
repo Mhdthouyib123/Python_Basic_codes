@@ -1,0 +1,1 @@
+simple_words = ["apple", "book", "cat", "dog", "egg","fish", "go", "hat", "ice", "jump","kite", "love", "man", "nose", "open","pen", "queen", "run", "sun", "tree","up", "van", "walk", "yellow", "zoo"]
